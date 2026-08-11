@@ -1,0 +1,78 @@
+body {
+    background:hsl(187, 61%, 43%)
+}
+logo {
+    width: 100px;
+    height: 100px;
+    background:white;
+    background-size: contain;
+    color: rgb(28, 99, 34);
+    font-weight: bold;
+    radius: 20px;
+}
+span {
+    color: rgb(99, 28, 85);
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left:75%;
+}
+.signup {
+    background: rgb(28, 99, 34);
+    color: white;
+    padding: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+    justify-content:evenly;
+    margin-left: 45%;
+    height: 50vh;
+    items-inline:border-box;
+    
+}
+#password {
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+}
+#confirm_password {
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+}
+#email {
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+.container {
+    background: rgb(28, 99, 34);
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    margin-top: 100px;
+    justify-content:evenly;
+    margin-left: 40%;
+    height: 50vh;
+}
